@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Mohammed Abid Nafi. I am a Android/Web Developer.
+
+
+
 <!--
 **MohammedAbidNafi/MohammedAbidNafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
