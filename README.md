@@ -12,6 +12,7 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * PyCharm
 * Heroku
 * NodeJS
+* Responsive Web Design
 
 
 ### 🔤 Langugages
@@ -31,6 +32,9 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * Dart
 * ReactNative
 * Angular
+
+### Certificates
+* Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
 
 ### Flagship Projects
 
