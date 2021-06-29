@@ -11,6 +11,7 @@ I am Mohammed Abid Nafi. I am a Android/Web Developer. I am open to work in any 
 * CSS
 * C#
 * JavaScript
+* Python
 
 ### Flagship Projects
 
