@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am Mohammed Abid Nafi. I am a Android/Web Developer.
+I am Mohammed Abid Nafi. I am a Android/Web Developer. I am open to work in any open source project feel free to contact me!
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true)
+
+### 
 
 ### Flagship Projects
 
