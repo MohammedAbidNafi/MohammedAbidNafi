@@ -4,9 +4,11 @@ I am Mohammed Abid Nafi. I am a Android/Web Developer.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true)
 
+### Flagship Projects
 
-### Here's How Many
-![Profile View Counter](https://komarev.com/ghpvc/?username=MohammedAbidNafi)
+* https://github.com/MohammedAbidNafi/MessengerByMargs
+* https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
+* https://github.com/MohammedAbidNafi/To-DO-App
 
 
 
