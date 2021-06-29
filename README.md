@@ -4,7 +4,13 @@ I am Mohammed Abid Nafi. I am a Android/Web Developer. I am open to work in any 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true)
 
-### 
+### Langugages
+* Java
+* Kotlin
+* HTML
+* CSS
+* C#
+* JavaScript
 
 ### Flagship Projects
 
