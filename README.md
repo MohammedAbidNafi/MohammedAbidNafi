@@ -38,6 +38,10 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
 * https://github.com/MohammedAbidNafi/To-DO-App
 
+### How to reach me....
+* Personal E-Mail abid.nafi04@gmail.com
+* Business E-Mail margsglobal@gmail.com
+
 
 
 <!--
