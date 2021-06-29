@@ -4,6 +4,16 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true)
 
+### 💻 Technology
+* Android
+* Firebase
+* React
+* Unity
+* PyCharm
+* Heroku
+* NodeJS
+
+
 ### 🔤 Langugages
 * Java
 * Kotlin
@@ -12,6 +22,15 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * C#
 * JavaScript
 * Python
+
+### 🏫 I want to learn & and do more..
+
+* Swift
+* xCode
+* Flutter
+* Dart
+* ReactNative
+* Angular
 
 ### Flagship Projects
 
