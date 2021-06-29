@@ -41,6 +41,12 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 ### How to reach me....
 * Personal E-Mail abid.nafi04@gmail.com
 * Business E-Mail margsglobal@gmail.com
+* Phone No +91 9491951924
+* Linkedin https://www.linkedin.com/in/margs-global-0239b01b1/
+* Reddit https://www.reddit.com/user/AbidNafi
+
+
+See my work below   ⬇️
 
 
 
