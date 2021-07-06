@@ -36,7 +36,7 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * PHP
 * C++
 
-### Certificates
+### 📜 Certificates
 * Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
 
 ### Flagship Projects
