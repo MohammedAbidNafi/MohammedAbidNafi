@@ -12,7 +12,6 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * PyCharm
 * Heroku
 * NodeJS
-* Responsive Web Design
 * Electron
 
 
