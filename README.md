@@ -7,12 +7,13 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 ### 💻 Technology
 * Android
 * Firebase
-* React
+* Reactjs
 * Unity
 * PyCharm
 * Heroku
 * NodeJS
 * Electron
+* Paytm Gateway
 
 
 ### 🔤 Langugages
