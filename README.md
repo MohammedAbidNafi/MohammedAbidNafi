@@ -4,6 +4,10 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?MohammedAbidNafi=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 💻 Technology
 * Android
 * Firebase
