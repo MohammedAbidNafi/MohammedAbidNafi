@@ -2,7 +2,7 @@
 
 I am a Android/Web Developer. I am passionate about building high quality Android and Web applications as well as contributing to the world of open-source. I am open to work in any open source project feel free to contact me!
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Technology
 * Android
