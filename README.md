@@ -22,7 +22,7 @@ My Gear
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" /> Heroku
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" /> NodeJS
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" /> Electron
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paytm.svg" /> Paytm Gateway
+* <img align="left" alt="Paytm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paytm.svg" /> Paytm Gateway
 
 
 ### 🔤 Langugages
@@ -32,7 +32,7 @@ My Gear
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> CSS
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> C#
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> JavaScript
-* <img align="left" alt="paytm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> Python
+* <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> Python
 
 ### 🏫 I want to learn..
 
