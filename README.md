@@ -11,7 +11,7 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 ### 💻 Technology
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /> Android
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" /> Gradle 
-* Firebase
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" /> Firebase
 * <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /> Git
 * Reactjs
 * Unity
