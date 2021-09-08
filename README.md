@@ -25,15 +25,15 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 ### 🔤 Langugages
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> Java
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" /> Kotlin
-* HTML
-* CSS
-* C#
-* JavaScript
-* Python
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" /> HTML
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg" /> CSS
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/C#.svg" /> C#
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> JavaScript
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> Python
 
 ### 🏫 I want to learn..
 
-* Swift
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" /> Swift
 * xCode
 * Flutter
 * Dart
