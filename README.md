@@ -1,4 +1,4 @@
-### Hi I am Abid Nafi 😁🧑🏻‍💻
+### Hi I am Abid Nafi 😁🧑🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am a Android/Web Developer. I am passionate about building high quality Android and Web applications as well as contributing to the world of open-source. I am open to work in any open source project feel free to contact me!
 
@@ -56,6 +56,10 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * Linkedin https://www.linkedin.com/in/margs-global-0239b01b1/
 * Reddit https://www.reddit.com/user/AbidNafi
 
+<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
+<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
+<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
 
 ### See my work below   ⬇️
 
