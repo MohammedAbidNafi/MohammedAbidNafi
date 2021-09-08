@@ -54,8 +54,8 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * Personal E-Mail abid.nafi04@gmail.com
 * Business E-Mail margsglobal@gmail.com
 * Phone No +919491951924
-<a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-* Reddit https://www.reddit.com/user/AbidNafi
+* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+* <a href="https://www.reddit.com/user/AbidNafi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
 
 
 
