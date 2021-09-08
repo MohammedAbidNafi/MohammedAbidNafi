@@ -3,7 +3,10 @@
 I am a Android/Web Developer. I am passionate about building high quality Android and Web applications as well as contributing to the world of open-source. I am open to work in any open source project feel free to contact me!
 
 My Gear
- <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/dell-G3%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white" height=25></a>
+* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/dell-G3%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white" height=25></a>
+* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" height=25></a>
+* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/NVIDIA-GTX1650ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height=25></a>
+* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-iPad-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
