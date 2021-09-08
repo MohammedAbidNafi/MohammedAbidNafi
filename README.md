@@ -13,7 +13,7 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" /> Gradle 
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" /> Firebase
 * <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /> Git
-* Reactjs
+* <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Reactjs
 * Unity
 * PyCharm
 * Heroku
