@@ -39,13 +39,13 @@ My Gear
 ### 🏫 I want to learn..
 
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" /> Swift
-* xCode
-* Flutter
-* Dart
-* ReactNative
-* Angular
-* PHP
-* C++
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg" /> xCode
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> Flutter
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /> Dart
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reactnative.svg" /> ReactNative
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /> Angular
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> PHP
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c++.svg" /> C++
 
 ### 📜 Certificates
 * Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
