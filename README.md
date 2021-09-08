@@ -9,7 +9,8 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 
 
 ### 💻 Technology
-* Android
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /> Android
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" /> Gradle 
 * Firebase
 * Reactjs
 * Unity
@@ -21,8 +22,8 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 
 
 ### 🔤 Langugages
-* Java
-* Kotlin
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> Java
+* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" /> Kotlin
 * HTML
 * CSS
 * C#
@@ -56,10 +57,9 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 * Linkedin https://www.linkedin.com/in/margs-global-0239b01b1/
 * Reddit https://www.reddit.com/user/AbidNafi
 
-<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
-<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
-<img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
+
+
+
 
 ### See my work below   ⬇️
 
