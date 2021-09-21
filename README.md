@@ -9,7 +9,7 @@ My Gear
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-iPad-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 💻 Technology
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /> Android
