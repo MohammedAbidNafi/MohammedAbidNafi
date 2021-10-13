@@ -14,15 +14,15 @@ My Gear
 
 
 ### 💻 Technology
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /> Android
+* <img align="left" src="https://img.icons8.com/color/22/000000/android-studio--v3.png"/> Android
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" /> Gradle 
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" /> Firebase
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /> Git
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Reactjs
+* <img align="left" src="https://img.icons8.com/color/22/000000/firebase.png"/> Firebase
+* <img align="left" src="https://img.icons8.com/color/22/000000/git.png"/> Git
+* <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> Reactjs
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" /> Unity
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" /> PyCharm
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" /> Heroku
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" /> NodeJS
+* <img align="left" src="https://img.icons8.com/color/22/000000/pycharm.png"/> PyCharm
+* <img align="left" src="https://img.icons8.com/color/22/000000/heroku.png"/> Heroku
+* <img align="left" src="https://img.icons8.com/color/22/000000/nodejs.png"/> NodeJS
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" /> Electron
 
 
@@ -38,14 +38,14 @@ My Gear
 
 ### 🏫 I want to learn..
 
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" /> Swift
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg" /> xCode
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> Flutter
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /> Dart
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> ReactNative
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /> Angular
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> PHP
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> C++
+* <img align="left" src="https://img.icons8.com/color/22/000000/swift.png"/> Swift
+* <img align="left" src="https://img.icons8.com/color/22/000000/xcode.png"/> xCode
+* <img align="left" src="https://img.icons8.com/color/22/000000/flutter.png"/> Flutter
+* <img align="left" src="https://img.icons8.com/color/22/000000/dart.png"/> Dart
+* <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> ReactNative
+* <img align="left" src="https://img.icons8.com/color/22/000000/angularjs.png"/> Angular js
+* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> PHP
+* <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
 
 ### 📜 Certificates
 * Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
