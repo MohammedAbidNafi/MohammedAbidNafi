@@ -28,13 +28,13 @@ My Gear
 
 
 ### 🔤 Langugages
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> Java
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" /> Kotlin
-* <img src="https://img.icons8.com/color/22/000000/html-5--v1.png"/> HTML
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> CSS
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> C#
-* <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> JavaScript
-* <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> Python
+* <img align="left" src="https://img.icons8.com/color/22/000000/java-coffee-cup-logo--v2.png"/> Java
+* <img align="left" src="https://img.icons8.com/color/22/000000/kotlin.png"/> Kotlin
+* <img align="left" src="https://img.icons8.com/color/22/000000/html-5--v1.png"/> HTML
+* <img align="left" src="https://img.icons8.com/color/22/000000/css3.png"/> CSS
+* <img align="left" src="https://img.icons8.com/color/22/000000/c-sharp-logo.png"/> C#
+* <img align="left" src="https://img.icons8.com/color/22/000000/javascript--v1.png"/> JavaScript
+* <img align="left" src="https://img.icons8.com/color/22/000000/python--v1.png"/> Python
 
 ### 🏫 I want to learn..
 
