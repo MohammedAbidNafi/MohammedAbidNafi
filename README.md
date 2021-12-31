@@ -52,7 +52,7 @@ My Gear
 
 ### Flagship Projects
 
-* https://github.com/MohammedAbidNafi/MessengerByMargs
+* https://github.com/MohammedAbidNafi/Messagium
 * https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
 * https://github.com/MohammedAbidNafi/To-DO-App
 
