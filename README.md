@@ -34,6 +34,7 @@ My Gear
 * <img align="left" src="https://img.icons8.com/color/22/000000/c-sharp-logo.png"/> C#
 * <img align="left" src="https://img.icons8.com/color/22/000000/javascript--v1.png"/> JavaScript
 * <img align="left" src="https://img.icons8.com/color/22/000000/python--v1.png"/> Python
+* <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
 
 ### 🏫 I want to learn..
 
@@ -44,7 +45,7 @@ My Gear
 * <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> ReactNative
 * <img align="left" src="https://img.icons8.com/color/22/000000/angularjs.png"/> Angular js
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> PHP
-* <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
+
 
 ### 📜 Certificates
 * Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
