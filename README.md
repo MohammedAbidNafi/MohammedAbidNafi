@@ -21,7 +21,6 @@ My Gear
 * <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> Reactjs
 * <img align="left" alt="Abid | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" /> Unity
 * <img align="left" src="https://img.icons8.com/color/22/000000/pycharm.png"/> PyCharm
-* <img align="left" src="https://img.icons8.com/color/22/000000/heroku.png"/> Heroku
 * <img align="left" src="https://img.icons8.com/color/22/000000/nodejs.png"/> NodeJS
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" /> Electron
 
