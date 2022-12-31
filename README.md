@@ -52,13 +52,16 @@ My Gear
 ### 📜 Certificates
 * Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
 
+### Hackathons 
+* National Level Hackathon Innovasia 2022 at Vasavi College of Engineering Hyderabad
+
 ### Flagship Projects
 
 * https://github.com/MohammedAbidNafi/Messagium
 * https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
 * https://github.com/MohammedAbidNafi/To-DO-App
 
-### How to reach me....
+### 📞 How to reach me....
 * Personal E-Mail abid.nafi04@gmail.com
 * Business E-Mail margsglobal@gmail.com
 * Phone No +919491951924
