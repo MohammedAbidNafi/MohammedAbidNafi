@@ -1,7 +1,9 @@
 ### Hi I am Abid Nafi 😁🧑🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am a Android/Web Developer. Core Technical Team Member of ACM MJCET
+
 https://acmmjcet.com
+
 I am passionate about building high quality Android and Web applications as well as contributing to the world of open-source. I am open to work in any open source project feel free to contact me!
 
 DOB:- 01/04/2004
