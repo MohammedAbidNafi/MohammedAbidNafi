@@ -5,9 +5,7 @@ I am a Android/Web Developer. I am passionate about building high quality Androi
 DOB:- 01/04/2004
 
 My Gear
-* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/dell-G3%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white" height=25></a>
-* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" height=25></a>
-* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/NVIDIA-GTX1650ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height=25></a>
+* <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-Macbook Air M2-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-iPad-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true) 
@@ -63,6 +61,7 @@ My Gear
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 * <a href="https://www.reddit.com/user/AbidNafi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
 * <a href="https://stackoverflow.com/users/13620323/mohammed-abid-nafi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25></a>
+* <a href="https://www.instagram.com/md_abid_nafi/"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
 
 
