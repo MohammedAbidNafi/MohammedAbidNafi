@@ -1,5 +1,6 @@
 ### Hi I am Abid Nafi 😁🧑🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
 I am a Android/Web Developer. Core Team Member of Technical Team in ACM MJCET
 
 https://acmmjcet.com
@@ -8,15 +9,25 @@ https://www.instagram.com/mjcet_acm/
 
 I am passionate about building high quality Android and Web applications as well as contributing to the world of open-source. I am open to work in any open source project feel free to contact me!
 
-DOB:- 01/04/2004
 
-My Gear
+#### Here is a joke for you 
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+#### My Gear
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-Macbook Air M2-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-iPad-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MohammedAbidNafi.MohammedAbidNafi&left_color=green&right_color=red)
-               
+
+### You are
+
+![Visitor Count](https://profile-counter.glitch.me/MohammedAbidNafi/count.svg) 
+
+visitor
+        
+
+
 
 
 ### 💻 Technology
