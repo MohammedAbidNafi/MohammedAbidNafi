@@ -14,7 +14,9 @@ My Gear
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-Macbook Air M2-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/Apple-iPad-999999?style=for-the-badge&logo=apple&logoColor=white" height=25></a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true) 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MohammedAbidNafi.MohammedAbidNafi&left_color=green&right_color=red)
+               
 
 
 ### 💻 Technology
