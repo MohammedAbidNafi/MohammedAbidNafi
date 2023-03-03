@@ -40,6 +40,7 @@ visitor
 * <img align="left" src="https://img.icons8.com/color/22/000000/pycharm.png"/> PyCharm
 * <img align="left" src="https://img.icons8.com/color/22/000000/nodejs.png"/> NodeJS
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" /> Electron
+* <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> ReactNative
 
 
 
@@ -59,7 +60,6 @@ visitor
 * <img align="left" src="https://img.icons8.com/color/22/000000/xcode.png"/> xCode
 * <img align="left" src="https://img.icons8.com/color/22/000000/flutter.png"/> Flutter
 * <img align="left" src="https://img.icons8.com/color/22/000000/dart.png"/> Dart
-* <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> ReactNative
 * <img align="left" src="https://img.icons8.com/color/22/000000/angularjs.png"/> Angular js
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> PHP
 
