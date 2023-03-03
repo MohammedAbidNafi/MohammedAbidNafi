@@ -69,6 +69,7 @@ visitor
 
 ### Hackathons 
 * National Level Hackathon Innovasia 2022 at Vasavi College of Engineering Hyderabad
+* HackRevolution 2022 at MJCET
 
 ### Flagship Projects
 
