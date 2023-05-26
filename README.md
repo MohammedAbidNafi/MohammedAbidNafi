@@ -41,6 +41,7 @@ visitor
 * <img align="left" src="https://img.icons8.com/color/22/000000/nodejs.png"/> NodeJS
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" /> Electron
 * <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> ReactNative
+* <img align="left" src="https://img.icons8.com/color/22/000000/flutter.png"/> Flutter
 
 
 
@@ -53,13 +54,12 @@ visitor
 * <img align="left" src="https://img.icons8.com/color/22/000000/javascript--v1.png"/> JavaScript
 * <img align="left" src="https://img.icons8.com/color/22/000000/python--v1.png"/> Python
 * <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
+* <img align="left" src="https://img.icons8.com/color/22/000000/dart.png"/> Dart
 
 ### 🏫 I want to learn..
 
 * <img align="left" src="https://img.icons8.com/color/22/000000/swift.png"/> Swift
 * <img align="left" src="https://img.icons8.com/color/22/000000/xcode.png"/> xCode
-* <img align="left" src="https://img.icons8.com/color/22/000000/flutter.png"/> Flutter
-* <img align="left" src="https://img.icons8.com/color/22/000000/dart.png"/> Dart
 * <img align="left" src="https://img.icons8.com/color/22/000000/angularjs.png"/> Angular js
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> PHP
 
