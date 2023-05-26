@@ -1,7 +1,9 @@
 ### Hi I am Abid Nafi 😁🧑🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I am a Android/Web Developer. Core Team Member of Technical Team in ACM MJCET
+I am a Android/Web Developer. Founder and CEO of MargsGlobal. Core Team Member of Technical Team in ACM MJCET.
+
+www.margsglobal.com
 
 https://acmmjcet.com
 
