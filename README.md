@@ -68,8 +68,9 @@ visitor
 * Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
 
 ### Hackathons 
-* National Level Hackathon Innovasia 2022 at Vasavi College of Engineering Hyderabad
-* HackRevolution 2022 at MJCET
+* National Level Hackathon Innovasia 2022 at Vasavi College of Engineering, Hyderabad
+* HackRevolution 2022 at MJCET, Hyderabad
+* 1st Runner Up in Idea Sprint 2023 at SU Knowledge Hub foundation, Hyderabad 
 
 ### Flagship Projects
 
