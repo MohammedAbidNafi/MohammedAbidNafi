@@ -69,6 +69,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <img align="left" src="https://img.icons8.com/color/22/000000/rust-programming-language.png"/> Rust
 * <img align="left" src="https://img.icons8.com/color/22/000000/nginx.png"/> Nginx
 * <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
+* <img align="left" src="https://img.icons8.com/color/22/000000/tensorflow.png"/> Tensorflow
 
 
 ### 📜 Certificates
