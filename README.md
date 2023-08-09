@@ -56,7 +56,6 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <img align="left" src="https://img.icons8.com/color/22/000000/javascript--v1.png"/> JavaScript
 * <img align="left" src="https://img.icons8.com/color/22/000000/c-sharp-logo.png"/> C#
 * <img align="left" src="https://img.icons8.com/color/22/000000/python--v1.png"/> Python
-* <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
 * <img align="left" src="https://img.icons8.com/color/22/000000/dart.png"/> Dart
 * <img align="left" src="https://img.icons8.com/color/22/000000/c-programming.png"/> C
 * <img align="left" src="https://img.icons8.com/color/22/000000/sql.png"/> SQL
@@ -69,6 +68,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <img align="left" src="https://img.icons8.com/color/22/000000/amazon-web-services.png"/> AWS
 * <img align="left" src="https://img.icons8.com/color/22/000000/rust-programming-language.png"/> Rust
 * <img align="left" src="https://img.icons8.com/color/22/000000/nginx.png"/> Nginx
+* <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
 
 
 ### 📜 Certificates
