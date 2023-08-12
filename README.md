@@ -4,7 +4,7 @@
 
 I am a Swift/Web Developer. Founder and CEO of MargsGlobal. Core Team Member of Technical Team in ACM MJCET.
 
-www.margsglobal.com
+www.abidnafi.in
 
 https://acmmjcet.com
 
