@@ -12,7 +12,10 @@ https://www.instagram.com/mjcet_acm/
 
 I am passionate about building iOS, Android, and Web applications as well as contributing to the world of open-source. I am open to working on any open-source project feel free to contact me!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Here is a joke for you 
 
