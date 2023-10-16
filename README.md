@@ -83,7 +83,8 @@ I am passionate about building iOS, Android, and Web applications as well as con
 ### Hackathons 
 * National Level Hackathon Innovasia 2022 at Vasavi College of Engineering, Hyderabad
 * HackRevolution 2022 at MJCET, Hyderabad
-* 1st Runner Up in Idea Sprint 2023 at SU Knowledge Hub foundation, Hyderabad 
+* 1st Runner Up in Idea Sprint 2023 at SU Knowledge Hub foundation, Hyderabad
+* 1st Position in CFIxHacktoberFest 2023 
 
 ### Flagship Projects
 
