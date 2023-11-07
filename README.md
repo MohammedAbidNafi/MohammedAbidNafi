@@ -1,4 +1,4 @@
-### Hi I am Abid Nafi 😁🧑🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola! I am Abid Nafi 😁🧑🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=1144B3&width=435&lines=Swift+Developer;Frontend+Engineer;Android+Developer;Student;CEO+of+MargsGlobal)](https://git.io/typing-svg)
 
