@@ -50,6 +50,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <img align="left" src="https://img.icons8.com/color/22/000000/expo.png"/> Expo
 * <img align="left" src="https://img.icons8.com/color/22/000000/tensorflow.png"/> Tensorflow
 * <img align="left" src="https://img.icons8.com/color/22/000000/nextjs"/> NextJS
+* <img align="left" src="https://img.icons8.com/color/22/000000/tailwindcss"/> Tailwind CSS
   
 
 
