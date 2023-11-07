@@ -46,7 +46,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" /> Electron
 * <img align="left" src="https://img.icons8.com/color/22/000000/react-native.png"/> ReactNative
 * <img align="left" src="https://img.icons8.com/color/22/000000/flutter.png"/> Flutter
-* <img align="left" src="https://img.icons8.com/color/22/000000/google-cloud.png"/> GCloud
+* <img align="left" src="https://img.icons8.com/color/22/000000/google-cloud.png"/> Google Cloud
 * <img align="left" src="https://img.icons8.com/color/22/000000/expo.png"/> Expo
 * <img align="left" src="https://img.icons8.com/color/22/000000/tensorflow.png"/> Tensorflow
 * <img align="left" src="https://img.icons8.com/color/22/000000/nextjs"/> NextJS
