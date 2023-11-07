@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=1144B3&width=435&lines=Swift+Developer;Frontend+Engineer;Android+Developer;Student;CEO+of+MargsGlobal)](https://git.io/typing-svg)
 
-I am a Swift/Web Developer. Founder and CEO of <a href="www.margsglobal.com" noblank>MargsGlobal</a>. Tech Team Head of Technical Team in ACM MJCET.
+I am a Swift/Web Developer. Founder and CEO of [MargsGlobal](www.margsglobal.com){:target="_blank"}. Tech Team Head of Technical Team in ACM MJCET.
 
 www.abidnafi.in
 
