@@ -101,7 +101,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 ### 📞 How to reach me....
 * Personal E-Mail abid.nafi04@gmail.com
 * Business E-Mail abid@margsglobal.com
-* Phone No +919491951924
+* Phone No <a href="tel:+919491951924">+919491951924</a>
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 * <a href="https://www.reddit.com/user/AbidNafi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
 * <a href="https://stackoverflow.com/users/13620323/mohammed-abid-nafi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25></a>
