@@ -52,6 +52,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <img align="left" src="https://img.icons8.com/color/22/000000/nextjs"/> NextJS
 * <img align="left" src="https://img.icons8.com/color/22/000000/tailwindcss"/> Tailwind CSS
 * <img align="left" src="https://img.icons8.com/color/22/000000/chatgpt"/> OpenAI
+* <img align="left" src="https://img.icons8.com/color/22/000000/vite"/> Vite
   
 
 
