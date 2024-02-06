@@ -27,9 +27,9 @@ I am passionate about building iOS, Android, and Web applications as well as con
 
 
 
-### You are
+### Total visited
 
-![Visitor Count](https://profile-counter.glitch.me/MohammedAbidNafi/count.svg)  visitor
+![Visitor Count](https://profile-counter.glitch.me/MohammedAbidNafi/count.svg)
 
 
 
