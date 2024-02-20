@@ -108,7 +108,9 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <a href="https://stackoverflow.com/users/13620323/mohammed-abid-nafi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25></a>
 * <a href="https://www.instagram.com/md_abid_nafi/"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
-
+<a href="https://discord.com/users/347003846679068672" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/347003846679068672?bg=1f1f1f&borderRadius=5px">
+</a>
 
 
 
