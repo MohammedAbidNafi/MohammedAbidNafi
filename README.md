@@ -53,6 +53,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * <img align="left" src="https://img.icons8.com/color/22/000000/tailwindcss"/> Tailwind CSS
 * <img align="left" src="https://img.icons8.com/color/22/000000/chatgpt"/> OpenAI
 * <img align="left" src="https://img.icons8.com/color/22/000000/vite"/> Vite
+* <img align="left" src="https://img.icons8.com/color/22/000000/amazon-web-services.png"/> AWS
   
 
 
@@ -76,7 +77,6 @@ I am passionate about building iOS, Android, and Web applications as well as con
 
 * <img align="left" src="https://img.icons8.com/color/22/000000/angularjs.png"/> Angular js
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> PHP
-* <img align="left" src="https://img.icons8.com/color/22/000000/amazon-web-services.png"/> AWS
 * <img align="left" src="https://img.icons8.com/color/22/000000/rust-programming-language.png"/> Rust
 * <img align="left" src="https://img.icons8.com/color/22/000000/nginx.png"/> Nginx
 * <img align="left" src="https://img.icons8.com/color/22/000000/c-plus-plus-logo.png"/> C++
