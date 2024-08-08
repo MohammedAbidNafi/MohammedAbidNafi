@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=1144B3&width=435&lines=Swift+Developer;Frontend+Engineer;Android+Developer;Student;CEO+of+MargsGlobal)](https://git.io/typing-svg)
 
-I am a Swift/Web Developer. Founder and CEO of <a href="https://www.margsglobal.com" target="_blank">MargsGlobal</a>. Head of Technical Team in ACM MJCET and Web Team Head in E-Cell MJCET
-
+I am a Full Stack Engineer. Founder and CEO of <a href="https://www.margsglobal.com" target="_blank">MargsGlobal</a>. CTO in E-Cell MJCET
 www.abidnafi.in
 
 https://ecellmjcet.in
 
-https://acmmjcet.com
 
 I am passionate about building iOS, Android, and Web applications as well as contributing to the world of open-source. I am open to working on any open-source project feel free to contact me!
 
