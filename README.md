@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=1144B3&width=435&lines=Swift+Developer;Frontend+Engineer;Android+Developer;Student;CEO+of+MargsGlobal)](https://git.io/typing-svg)
 
-I am a Full Stack Engineer. Founder and CEO of <a href="https://www.margsglobal.com" target="_blank">MargsGlobal</a>. CTO in E-Cell MJCET
 www.abidnafi.in
+
+
+I am a Full Stack Engineer. Founder and CEO of <a href="https://www.margsglobal.com" target="_blank">MargsGlobal</a>. CTO in E-Cell MJCET
+
 
 https://ecellmjcet.in
 
