@@ -23,7 +23,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 
 [![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact&theme=dracula&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact&theme=dracula&hide=java,gdscript,kotlin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Here is a joke for you 
