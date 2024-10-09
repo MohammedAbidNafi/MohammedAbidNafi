@@ -1,6 +1,9 @@
 ### Hola! I am Abid Nafi 😁🧑🏻‍💻 <img src="sup.gif" width="100px">
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00A4FD&width=435&lines=Full+Stack+Engineer;Frontend+Engineer;Swift+Developer;Android+Developer;Student;CEO)](https://git.io/typing-svg)
+
+www.abidnafi.in
 
 &nbsp;
 &nbsp;
@@ -9,13 +12,6 @@
 
 
 **I love code**&nbsp;&nbsp;<img src="code.gif" width="100px"> and cats <img src="play.gif" width="100px">
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00A4FD&width=435&lines=Full+Stack+Engineer;Frontend+Engineer;Swift+Developer;Android+Developer;Student;CEO)](https://git.io/typing-svg)
-
-www.abidnafi.in
-
-
 
 I am a Full Stack Engineer, Founding Enginner of Xofi, Founder and CEO of <a href="https://www.margsglobal.com" target="_blank">MargsGlobal</a> CTO of <a href="https://ecellmjcet.com" target="_blank">E-Cell MJCET</a>
 
@@ -27,7 +23,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 
 [![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAbidNafi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbidNafi&layout=compact&theme=dracula&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Here is a joke for you 
