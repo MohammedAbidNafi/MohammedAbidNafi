@@ -1,7 +1,14 @@
-### Hola! I am Abid Nafi 😁🧑🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola! I am Abid Nafi 😁🧑🏻‍💻 <img src="sup.gif" width="100px">
 
 
-**I love to code**&nbsp;&nbsp;![](cat-typing.gif) and cats
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+**I love code**&nbsp;&nbsp;<img src="code.gif" width="100px"> and cats <img src="play.gif" width="100px">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00A4FD&width=435&lines=Full+Stack+Engineer;Frontend+Engineer;Swift+Developer;Android+Developer;Student;CEO)](https://git.io/typing-svg)
