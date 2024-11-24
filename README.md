@@ -1,8 +1,8 @@
 ### Hola! I am Abid Nafi 😁🧑🏻‍💻 <img src="sup.gif" width="100px">
 
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00A4FD&width=435&lines=Full+Stack+Engineer;Frontend+Engineer;Swift+Developer;Android+Developer;Student;CEO)](https://git.io/typing-svg)
-
+-->
 www.abidnafi.in
 
 &nbsp;
