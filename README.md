@@ -13,7 +13,7 @@ www.abidnafi.in
 
 **I love code**&nbsp;&nbsp;<img src="code.gif" width="100px"> and cats <img src="play.gif" width="100px">
 
-I am a Full Stack Engineer, Founding Enginner of Xofi, Founder and CEO of <a href="https://www.margsglobal.com" target="_blank">MargsGlobal</a> CTO of <a href="https://ecellmjcet.com" target="_blank">E-Cell MJCET</a>
+I am a Full Stack Engineer, Founding Enginner at Xofi, Founder and CEO of <a href="https://www.margsglobal.com" target="_blank">MargsGlobal</a> CTO in <a href="https://ecellmjcet.com" target="_blank">E-Cell MJCET</a>
 
 
 
@@ -63,6 +63,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 <details open>
 	<summary><h3>Backend</h3></summary>
 	<p>
+		<img alt="Go" src="https://img.shields.io/badge/-Go-00a8cd?style=flat-square&logo=Go&logoColor=white" />
 		<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 		<img alt="Bun" src="https://img.shields.io/badge/-Bun.js-000000?style=flat-square&logo=bun&logoColor=white" />
 		<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -98,6 +99,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 	<p>
 		<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 		<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+		<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-f6821f?style=flat-square&logo=cloudflare&logoColor=white" />
 		<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 		<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 		<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
@@ -134,6 +136,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 	<summary><h3>🔤 Languages</h3></summary>
 	<p>
 		<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+		<img alt="Go" src="https://img.shields.io/badge/-Go-00a8cd?style=flat-square&logo=Go&logoColor=white" />
 		<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 		<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 		<img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
@@ -166,11 +169,6 @@ I am passionate about building iOS, Android, and Web applications as well as con
 	
 </details>
 
-
-
-### 📜 Certificates
-* Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
-
 ### Hackathons 
 * National Level Hackathon Innovasia 2022 at Vasavi College of Engineering, Hyderabad
 * HackRevolution 2022 at MJCET, Hyderabad
@@ -178,15 +176,20 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * 1st Position in CFIxHacktoberFest 2023
 * 2nd Position in Hackenvision 2.0 at Nawab Shah Alam, Hyderabad
 
-### Flagship Projects
+### Personal Projects
 
+* https://github.com/MohammedAbidNafi/GitWit
+* https://github.com/MohammedAbidNafi/GoKeyDB-Go-SDK
 * https://github.com/MohammedAbidNafi/Messagium
 * https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
 * https://github.com/MohammedAbidNafi/To-DO-App
 
+### 📜 Certificates
+* Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
+
 ### 📞 How to reach me....
 * Personal E-Mail abid.nafi04@gmail.com
-* Business E-Mail abid@margsglobal.com
+* Portfolio www.abidnafi.in
 * Phone No <a href="tel:+919491951924">+919491951924</a>
 * <a href="https://www.linkedin.com/in/margs-global-0239b01b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 * <a href="https://www.reddit.com/user/AbidNafi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
@@ -197,20 +200,3 @@ I am passionate about building iOS, Android, and Web applications as well as con
 
 
 ### See my work below   ⬇️
-
-
-
-<!--
-**MohammedAbidNafi/MohammedAbidNafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
