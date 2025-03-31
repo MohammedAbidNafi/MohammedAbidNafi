@@ -13,7 +13,7 @@ www.abidnafi.in
 
 **I love code**&nbsp;&nbsp;<img src="code.gif" width="100px"> and cats <img src="play.gif" width="100px">
 
-I am a Full Stack Engineer, Founding Enginner at Xofi, Founder of <a href="https://www.navigorides.com" target="_blank">NaviGo</a> CTO in <a href="https://ecellmjcet.com" target="_blank">E-Cell MJCET</a>
+I am a Full Stack Engineer, Founding Enginner at Xofi, React Native Developer in TEC Spartens, Founder of <a href="https://www.navigorides.com" target="_blank">NaviGo</a> CTO in <a href="https://ecellmjcet.com" target="_blank">E-Cell MJCET</a>
 
 
 
