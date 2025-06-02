@@ -179,6 +179,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 ### Personal Projects
 
 * https://github.com/MohammedAbidNafi/GitWit
+* https://github.com/MohammedAbidNafi/NextGenie-CLI
 * https://github.com/MohammedAbidNafi/GoKeyDB-Go-SDK
 * https://github.com/MohammedAbidNafi/Messagium
 * https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
