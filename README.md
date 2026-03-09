@@ -13,7 +13,7 @@ www.abidnafi.com
 
 **I love code**&nbsp;&nbsp;<img src="code.gif" width="100px"> and cats <img src="play.gif" width="100px">
 
-I am a Full Stack Engineer, Founding Enginner at Xofi, React Native Developer in TEC Spartens.
+I am a Full Stack Engineer, Founding Enginner at Xofi, React Native Developer at TEC Spartans.
 
 
 
