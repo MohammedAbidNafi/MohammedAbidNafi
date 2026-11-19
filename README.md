@@ -15,6 +15,8 @@ www.abidnafi.com
 
 I am a Full Stack Engineer, Founding Enginner at Xofi, React Native Developer at TEC Spartans.
 
+🎮 **Creator and maintainer of [PocketDeck](https://github.com/Pocket-Deck-App)**: a controller-first game launcher for Android that streams your PC games to your phone, peer to peer, at home or anywhere.
+
 
 
 
@@ -177,6 +179,16 @@ I am passionate about building iOS, Android, and Web applications as well as con
 * 1st Runner Up in Idea Sprint 2023 at SU Knowledge Hub foundation, Hyderabad
 * 1st Position in CFIxHacktoberFest 2023
 * 2nd Position in Hackenvision 2.0 at Nawab Shah Alam, Hyderabad
+
+### 🎮 PocketDeck
+
+I created and maintain **[PocketDeck](https://github.com/Pocket-Deck-App)**, an open-source (GPL-3.0) game launcher for Android with PC game streaming built in.
+
+| Repository | What it is |
+|---|---|
+| [Pocket-Deck-Android](https://github.com/Pocket-Deck-App/Pocket-Deck-Android) | The Android app (Kotlin, Jetpack Compose): ROMs, emulators, Android and PC games in one library, with streaming inside the app |
+| [Pocket-Deck-PC](https://github.com/Pocket-Deck-App/Pocket-Deck-PC) | The Windows companion (Rust, Slint): sets up Sunshine, finds your games, pairs with one scan and adds a virtual display at your phone's resolution |
+| [Pocket-Deck-Relay](https://github.com/Pocket-Deck-App/Pocket-Deck-Relay) | The relay that lets the phone find the PC from anywhere; the stream itself always goes directly, peer to peer, over iroh |
 
 ### Personal Projects
 
