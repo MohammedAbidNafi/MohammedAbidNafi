@@ -39,7 +39,7 @@ I am passionate about building iOS, Android, and Web applications as well as con
 
 ### Total visited
 
-![Visitor Count](https://profile-counter.glitch.me/MohammedAbidNafi/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=MohammedAbidNafi&color=blueviolet)
 
 
 ### 💻 Technology
@@ -192,12 +192,15 @@ I created and maintain **[PocketDeck](https://github.com/Pocket-Deck-App)**, an 
 
 ### Personal Projects
 
-* https://github.com/MohammedAbidNafi/GitWit
-* https://github.com/MohammedAbidNafi/NextGenie-CLI
-* https://github.com/MohammedAbidNafi/GoKeyDB-Go-SDK
-* https://github.com/MohammedAbidNafi/Messagium
-* https://github.com/MohammedAbidNafi/ImageToText-FirebaseML
-* https://github.com/MohammedAbidNafi/To-DO-App
+| Project | What it is | Built with |
+|---|---|---|
+| [**svg-code**](https://github.com/MohammedAbidNafi/svg-code) · [svg-code.dev](https://svg-code.dev) | Converts SVG code or files into clean React and React Native components, entirely in the browser | Next.js, Tailwind CSS |
+| [**GitWit**](https://github.com/MohammedAbidNafi/GitWit) | VS Code extension that writes your commit messages with AI | TypeScript |
+| [**NextGenie-CLI**](https://github.com/MohammedAbidNafi/NextGenie-CLI) | CLI that generates Next.js app-directory pages and layouts | TypeScript |
+| [**AI-Gateway**](https://github.com/MohammedAbidNafi/AI-Gateway) | Gateway for self-hosted models that picks the right model for each task | Go |
+| [**GoKeyDB**](https://github.com/MohammedAbidNafi/GoKeyDB-Go-SDK) | Lightweight SQLite-backed key-value store for Go, with a [CLI](https://github.com/MohammedAbidNafi/GoKeyDB-CLI) | Go |
+| [**Messagium**](https://github.com/MohammedAbidNafi/Messagium) | Instant messaging app for Android | Java |
+| [**99 Names of Allah**](https://github.com/MohammedAbidNafi/99-Names-of-Allah) | Android app with the 99 names of Allah, their meanings in English and audio in Arabic | Java |
 
 ### 📜 Certificates
 * Responsive Web Design https://www.freecodecamp.org/certification/mohammed-abid-nafi/responsive-web-design
